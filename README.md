@@ -1,4 +1,4 @@
-# Spotify-UI-Flutter
+# Spotify-UI-Flutter-Clone
 
 https://www.youtube.com/llLv2MWlBbs
 
